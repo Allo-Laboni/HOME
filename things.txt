@@ -5,3 +5,6 @@ fridge
 
 tv
 cabinet
+
+light 
+fan
